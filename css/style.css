@@ -2067,6 +2067,7 @@ ol {
 @media only screen and (max-width: 479px) {
 	.logo-area {
 		padding: 20px 30px 30px;
+		height: 100px;
 	}
 	.header-area {
 		background: #121212;
@@ -2104,5 +2105,8 @@ ol {
 	}
 	.projects-slider {
 		padding: 0 15px;
+	}
+	.logo-area img{
+		height: 60px;
 	}
 }
